@@ -1,4 +1,4 @@
-# smart-contract-audits
+# Smart Contract Audits
 Common Smart Contract Audit findings
 
 1. Compiler errors
